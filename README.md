@@ -10,6 +10,10 @@ You can use this code snippet by copying the HTML and CSS into your project. Cus
 
 No specific prerequisites are required. Simply include the HTML and CSS in your project.
 
+### Website
+
+[website]([https://www.example.com)](https://shivoham8.github.io/Gradient-Box-Animator/)
+
 ### Usage
 
 1. Copy the HTML code from [`index.html`](index.html).
