@@ -12,7 +12,7 @@ No specific prerequisites are required. Simply include the HTML and CSS in your 
 
 ### Website
 
-[website]([https://www.example.com)](https://shivoham8.github.io/Gradient-Box-Animator/)
+[website](https://shivoham8.github.io/Gradient-Box-Animator/)
 
 ### Usage
 
