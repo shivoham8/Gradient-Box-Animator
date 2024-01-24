@@ -2,10 +2,6 @@
 
 A simple HTML and CSS code snippet for creating an animated gradient box with a nested structure. This code produces a visually appealing rotating gradient effect with a blur and shadow, along with a nested box inside.
 
-## Preview
-
-![Animated Gradient Box Preview](preview.gif)
-
 ## Getting Started
 
 You can use this code snippet by copying the HTML and CSS into your project. Customize the colors, dimensions, and other properties to fit your design requirements.
