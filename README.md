@@ -4,7 +4,7 @@ A simple HTML and CSS code snippet for creating an animated gradient box with a 
 
 ## Preview
 
-![Animated Gradient Box Preview](preview.gif)
+![Animated Gradient Box Preview](preview.mov)
 
 ## Getting Started
 
